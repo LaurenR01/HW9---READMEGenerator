@@ -47,8 +47,8 @@ const generateREADME = (answers) => `<!DOCTYPE html>
         </div>
         <div>
             <h4><a id="questions">Questions?</a></h4>
-            <p>Find me on <a href="http://www.github.com/${answers.github}"</p>
-            <p>Send me an <a href="mailto:${answers.email}" target="_blankl"</p>
+            <p>Find me on <a href="http://www.github.com/${answers.github}">GitHub</a></p>
+            <p>Send me an <a href="mailto:${answers.email}" target="_blankl">email</a></p>
         </div>
     </main>
 </body>
