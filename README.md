@@ -47,6 +47,7 @@
             <p>Find me on <a href="http://www.github.com/LaurenR01">GitHub</a></p>
             <p>Send me an <a href="mailto:laurenrowe01@gmail.com" target="_blankl">email</a></p>
         </div>
+        <div>Check out the walkthrough video <a href="https://laurenr01.github.io/HW9---READMEGenerator/README%20Generator.mp4" target="_blank">here</a></div>
     </main>
 </body>
 </html>
